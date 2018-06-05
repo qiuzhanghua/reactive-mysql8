@@ -1,8 +1,9 @@
 # Try X DevAPI of MySQL 8 with Spring WebFlux
 
-Perhaps it's semi-reactive.
+Perhaps it's semi-reactive. :)
 
 #Install MySQL 8.0
+
 first of all
 
 ## Create Schema
