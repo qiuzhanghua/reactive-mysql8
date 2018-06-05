@@ -2,8 +2,7 @@
 
 Perhaps it's semi-reactive. :)
 
-#Install MySQL 8.0
-
+# Install MySQL 8.0
 first of all
 
 ## Create Schema
